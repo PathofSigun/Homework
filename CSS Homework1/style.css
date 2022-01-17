@@ -1,0 +1,15 @@
+body {
+    text-align: center; background-color: darksalmon; 
+}
+
+a {
+    padding: 10px;
+}
+
+h1 {
+    color: darkred;
+}
+
+h2,h3 {
+    color: firebrick;
+}
