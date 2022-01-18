@@ -1,0 +1,58 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.search {
+    text-align: center;
+    width: 81%;
+    background-color: rgb(216, 216, 216);
+    margin: auto;
+    padding: 3px;
+}
+
+.container {
+    width: 81%;
+    margin: auto;
+    padding-top: 3px;
+    
+}
+
+.spesearch {
+    text-align: center;
+    width: 33%;
+    float: left;
+    background-color: aqua;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    margin-right: 3px;
+    
+}
+
+.about {
+    text-align: center;
+    width: 33.12%;
+    float: left;
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 3px
+    
+}
+
+.subscribe {
+    text-align: center;
+    width: 33.3333%;
+    float: left;
+    background-color: aqua;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.copyr {
+    text-align: center;
+    clear: both;
+}
+
+
